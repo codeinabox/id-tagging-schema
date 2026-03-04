@@ -1,5 +1,11 @@
 {
     "key": "indoor_seating",
-    "type": "check",
-    "label": "Indoor Seating"
+    "type": "combo",
+    "label": "Indoor Seating",
+    "options": [
+        "yes",
+        "no",
+        "bar_table"
+    ],
+    "autoSuggestions": false
 }
